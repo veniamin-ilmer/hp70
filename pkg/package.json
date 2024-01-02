@@ -1,0 +1,12 @@
+{
+  "name": "hp70",
+  "version": "0.1.0",
+  "files": [
+    "hp70_bg.wasm",
+    "hp70.js",
+    "hp70.d.ts"
+  ],
+  "module": "hp70.js",
+  "types": "hp70.d.ts",
+  "sideEffects": false
+}
